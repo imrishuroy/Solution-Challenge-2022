@@ -1,16 +1,12 @@
-# potenshe
+# POTENSHEIA
+<img width="600" align='left' src="https://user-images.githubusercontent.com/72685035/161909863-6cb34cad-b599-4e92-b0e4-a4a21c61df94.png">
 
-A new Flutter project.
 
-## Getting Started
+**INTRODUCTION : Unleah your inner potential to a unicorn career👩‍💻**
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Right from childhood women face lots of struggles right from the time they are born, in rural areas people do not even consider educating or sending their daughters to higher studies, WHYYYYY???
+See the potential every woman has in her, just be her support and witness the wonders she would do. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+“Human’s rights are women's rights and women's rights are human’s rights”.Let's make this world a better and more equal place for every individual. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
