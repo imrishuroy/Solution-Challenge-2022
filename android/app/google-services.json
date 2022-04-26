@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "552649222161",
+    "project_id": "poten-she",
+    "storage_bucket": "poten-she.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552649222161:android:62da00244078695e91e9b0",
+        "android_client_info": {
+          "package_name": "com.sixteenbrains.potenshe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552649222161-sdivg6j44nbjvfltvmkf1ihkcq2g0ork.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixteenbrains.potenshe",
+            "certificate_hash": "5f4a627044fd33829b0c7b57b2cbd65eced82e86"
+          }
+        },
+        {
+          "client_id": "552649222161-ubvaqibgle5upeh6ujoojrt89r42e1c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkcUBjaKlt_Q8p8kzPXfPDrdiYzGQxMXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552649222161-ubvaqibgle5upeh6ujoojrt89r42e1c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
