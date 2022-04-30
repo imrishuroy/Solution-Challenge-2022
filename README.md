@@ -1,5 +1,5 @@
 # POTENSHEIA
-<img width="600" align='left' src="https://user-images.githubusercontent.com/72685035/161909863-6cb34cad-b599-4e92-b0e4-a4a21c61df94.png">
+<img width="400" align='left' src="https://user-images.githubusercontent.com/72685035/161909863-6cb34cad-b599-4e92-b0e4-a4a21c61df94.png">
 
 
 **INTRODUCTION : Unleah your inner potential to a unicorn career👩‍💻**
