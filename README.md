@@ -15,6 +15,8 @@ See the potential every woman has in her, just be her support and witness the wo
 
 - - - -
 ## Overview
+POTENSHEIA is a mobile application designed to help women unleash their inner power to advance their skillset, rights, and opportunities for women around the globe. Our aim is to bridge the gender inequality gap and intersecting issues, connect with leaders around the world, and access opportunities in the area nearest to their location! Potensheia is an application specifically designed to steer young women from the ages of 12 towards both academic and professional careers in science, technology, engineering, and mathematics. 
+
 ##### Duration : 2022.03.04 ~ Present ⏰
 - - - -
 ### Team member 💁🏻‍♀️💁🏻
