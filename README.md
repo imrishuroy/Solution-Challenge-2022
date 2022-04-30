@@ -14,7 +14,7 @@ See the potential every woman has in her, just be her support and witness the wo
 ##### Duration : 2022.03.04 ~ Present ⏰
 - - - -
 ### Team member 💁🏻‍♀️💁🏻
-#### Developer : Ruchika Suryawanshi, Ruchi Palkhe, Rishi Kumar, Nishtha Sarawat 
+#### Developer's : Ruchika Suryawanshi, Ruchi Palkhe, Rishi Kumar, Nishtha Sarawat 
 
 - - - -
 ### Technology of Use 💻
