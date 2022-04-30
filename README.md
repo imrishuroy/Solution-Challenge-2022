@@ -17,6 +17,13 @@ See the potential every woman has in her, just be her support and witness the wo
 #### Developer's : Ruchika Suryawanshi, Ruchi Pakhle, Rishi Kumar, Nishtha Sarawat 
 
 - - - -
+### Steps To Use Run This Project:
+##### 1) Install Flutter.
+##### 2) Install Dart.
+##### 3) Clone this repo to desired location.
+##### 4) Run Pub Get and Pub Upgrade.
+##### 5) Run this Project on your android emulator or connect real device to check this out.
+- - - - 
 ### Technology of Use 💻
 ####  Tools:-
 ##### 1) Android Studio
