@@ -30,29 +30,29 @@ POTENSHEIA is a mobile application designed to help women unleash their inner po
 - - - - 
 ### Technology of Use 💻
 ####  Tools:-
-##### 1) Android Studio
-##### 2) Adobe XD
+1) Android Studio
+2) Adobe XD
 
 #### Google Technologies:-
-##### 1) Firebase
-##### 2) Cloud Firestore
-##### 3) Cloud Storage
-##### 4) Cloud Functions
-##### 5) Cloud Messaging
-##### 6) Google Cloud Platform(Dialog Flow)
-##### 7) Authentication
-##### 8) Play Console
-##### 9) Google Forms for taking surveys
-##### 10) Google Sheets for in app surveys
-##### 11) Google Translator
-##### 12) Google ML Kit
-##### 13) Google Teachable Machine
-##### 14) Google Maps
+1) Firebase
+2) Cloud Firestore
+3) Cloud Storage
+4) Cloud Functions
+5) Cloud Messaging
+6) Google Cloud Platform(Dialog Flow)
+7) Authentication
+8) Play Console
+9) Google Forms for taking surveys
+10) Google Sheets for in app surveys
+11) Google Translator
+12) Google ML Kit
+13) Google Teachable Machine
+14) Google Maps
 
 #### Languages:-
-##### 1) Flutter
-##### 2) Dart
-##### 3) JavaScript
+1) Flutter
+2) Dart
+3) JavaScript
 - - -
 
 - - -
