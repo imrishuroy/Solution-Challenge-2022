@@ -10,8 +10,8 @@ See the potential every woman has in her, just be her support and witness the wo
 
 “Human’s rights are women's rights and women's rights are human’s rights”.Let's make this world a better and more equal place for every individual. 
 
-***Documentation:*** [Link](https://drive.google.com/drive/folders/1GXWS4wYygKhDguSNkZyTjkBJ7QSXjYJ4?usp=sharing), 
-***Demo:*** [Demo](https://drive.google.com/file/d/1pM3bvB6n7IsfTI9-Do6NphH_masCF7Jb/view?usp=sharing)
+***Documentation:*** [Link](https://docs.google.com/document/d/1TK-mvsFH1qj0Nv7qaaki02S6XT8BXRd08VnmvbGh9Kc/edit?usp=sharing), 
+***Demo:*** [Demo](https://www.youtube.com/watch?v=Oas0X-P1j1g)
 
 - - - -
 ## Overview
